@@ -12,13 +12,6 @@ keyword	Disaster-related keyword extracted from the tweet (if available)
 location	Location from where the tweet was posted (if available)
 text	The actual tweet content.
 
-# Example Entries:-
-id	   keyword	location	    text
-0	      NaN	     NaN	    Just happened a terrible car crash
-3  	    NaN	     NaN	    There is a forest fire at Spot Pond, geese are fleeing.
-11	    NaN	     NaN	    Typhoon Soudelor kills 28 in China and Taiwan.
-10865	  NaN	     NaN	    Storm in RI worse than last hurricane. My city is flooded.
-
 # Usage :-
 This dataset can be used for:
 
